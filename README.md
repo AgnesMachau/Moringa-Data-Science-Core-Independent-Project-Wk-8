@@ -1,5 +1,6 @@
 # Moringa-Data-Science-Core-Independent-Project-Wk-8
-##Introduction
+## Introduction 
+
 Hypothyroidism is a condition in which the thyroid gland is not able to produce enough thyroid hormone. Since the main purpose of thyroid hormone is to "run the body's metabolism," it is understandable that people with this condition will have symptoms associated with a slow metabolism. Hypothyroidism is more common than you would believe, and millions of people are currently hypothyroid and don't know it.
 
 Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. We are going to use the following data to answer our research question.
