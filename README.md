@@ -1,4 +1,4 @@
-# Moringa-Data-Science-Core-Independent-Project-Wk-8
+# Hypothyroidism Detection
 ## Introduction 
 
 Hypothyroidism is a condition in which the thyroid gland is not able to produce enough thyroid hormone. Since the main purpose of thyroid hormone is to "run the body's metabolism," it is understandable that people with this condition will have symptoms associated with a slow metabolism. Hypothyroidism is more common than you would believe, and millions of people are currently hypothyroid and don't know it.
